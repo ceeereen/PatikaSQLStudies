@@ -1,6 +1,8 @@
 ## 1. SORU
+'''
 SELECT title, description
 FROM film;
+'''
 
 ## 2.SORU
 SELECT * FROM film
